@@ -3,3 +3,6 @@ welcome to hotel
 
 veg
 nonveg
+
+biriyani
+tomata rice
